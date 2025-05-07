@@ -1,8 +1,6 @@
 # 📝 Flask To-Do List App
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x200.png?text=Flask+To-Do+List+App" alt="Flask To-Do List App" width="600">
-</p>
+
 
 **Flask To-Do List App** is a lightweight web application that allows users to manage daily tasks with ease. Built using **Flask** and **SQLAlchemy**, it demonstrates clean CRUD operations and a responsive interface for seamless task tracking.
 
